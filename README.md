@@ -39,5 +39,5 @@ Analysis of Satellite data from Modis, Sentinel-1 & 2 is done using SNAP tool an
 ![Screen 7](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/07_Flood_Detection.png)
 
 
-> How to perform Image Data processing and its Retrieval of Spectral data is clearly documented in this report (https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Earth%20Observation%20Image%20data%20processing%20and%20retrieval.pdf)
+> How to perform Image Data processing and its Retrieval of Spectral data is clearly documented in this [report] (https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Earth%20Observation%20Image%20data%20processing%20and%20retrieval.pdf)
 
