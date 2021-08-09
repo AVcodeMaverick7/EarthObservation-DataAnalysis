@@ -6,7 +6,7 @@ To explore MODIS satellite Aqua/Terra data and calculate Vegetation Indexes over
 
 ## Intro
 
-Analysis of Satellite data from Modis, Sentinel-1 & 2 is done using SNAP tool and a particulat Region of Interest(ROI) was studied during Summer and Winter seasons. Resampling has been done and Machine Learning techniques such as Supervised and Unsupervised Learning are applied to classification Land, water, Urban and forest covers. A slight overview of original work are shown below.
+Analysis of Satellite data from Modis, Sentinel-1 & 2 is done using SNAP tool choosing a Region of Interest(ROI) during Summer and Winter seasons. Resampling of original RGB image has been done and Machine Learning techniques such as Supervised and Unsupervised Learning are applied to perform classification of Land, water, Urban and vegetation covers. A slight overview of original work is shown below.
 
 ## Screenshots
 
