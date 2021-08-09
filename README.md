@@ -12,32 +12,32 @@ Analysis of Satellite data from Modis, Sentinel-1 & 2 is done using SNAP tool an
 
 ### Vegetation Cover Summer Vs Winter Modis Data
 
-![Screen 1](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/01_SUM_WIN_VEGE.png)
+![Screen 1](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/01_SUM_WIN_VEGE.png)
 
 ### Applying KMeans[Unsupervised Machine Learning] Modis Data
 
-![Screen 2](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/02_SAVI_5_7_US_C.png)
+![Screen 2](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/02_SAVI_5_7_US_C.png)
 
 ### River Tiber Estuary Sentinel-2 Data
 
-![Screen 3](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/03_RGB_Tiber.png)
+![Screen 3](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/03_RGB_Tiber.png)
 
 ### Pescara Estuary Sentinel-2 Data
 
-![Screen 4](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/04_MCI_Pescara.png)
+![Screen 4](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/04_MCI_Pescara.png)
 
 ### Applying Supervised Learning Sentinel-2 Data
 
-![Screen 5](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/05_Lake_Supervised.png)
+![Screen 5](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/05_Lake_Supervised.png)
 
 ### Total Suspended Sediments Chlorophyll-a Sentinel-2 Data
 
-![Screen 6](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/06_Tiber_Discharge.png)
+![Screen 6](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/06_Tiber_Discharge.png)
 
 ### Flood Detection from Sentinel-1 Data
 
-![Screen 7](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/07_Flood_Detection.png)
+![Screen 7](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Screenshots/07_Flood_Detection.png)
 
 
-
+> How to perform Image Data processing and its Retrieval of Spectral data is clearly documented in this report (https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/Earth%20Observation%20Image%20data%20processing%20and%20retrieval.pdf)
 
