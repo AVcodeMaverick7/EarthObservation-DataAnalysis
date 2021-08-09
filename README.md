@@ -1,37 +1,43 @@
-# Remote-healthCare-Master-application
+# Spatial Analysis of Satellite data
 
 ## Goal
 
-To develop a master Healthcare application that has several individual components to enable Tele medicine for patients based in Remote Locations, Each individual component is a fully-functional separate application by itself.
+To explore MODIS satellite Aqua/Terra data and calculate Vegetation Indexes over earth cover for Italy, Analysing data from SENTINEL-2 to perform Optical Remote Sensing including the monitoring of vegetation, soil and water cover, as well as observation of inland waterways & coastal areas, Surface Detection from Sentinel-1 data.
 
 ## Intro
 
-This application is a host of components that are prevelant in diagnosis of a patient like BMI Calculator, Prescription Notes Manager, Calling Emergency Services, Medical News etc.
-
+Analysis of Satellite data from Modis, Sentinel-1 & 2 is done using SNAP tool and a particulat Region of Interest(ROI) was studied during Summer and Winter seasons. Resampling has been done and Machine Learning techniques such as Supervised and Unsupervised Learning are applied to classification Land, water, Urban and forest covers. A slight overview of original work are shown below.
 
 ## Screenshots
 
-### Screen 1
+### Vegetation Cover Summer Vs Winter Modis Data
 
-![Screen 1](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen1.png)
+![Screen 1](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/01_SUM_WIN_VEGE.png)
 
-### Screen 2
+### Applying KMeans[Unsupervised Machine Learning] Modis Data
 
-![Screen 2](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen2.png)
+![Screen 2](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/02_SAVI_5_7_US_C.png)
 
-### Screen 3 
+### River Tiber Estuary Sentinel-2 Data
 
-![Screen 3](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen3.jpeg)
+![Screen 3](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/03_RGB_Tiber.png)
 
-### Screen 4 
+### Pescara Estuary Sentinel-2 Data
 
-![Screen 4](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen4.png)
+![Screen 4](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/04_MCI_Pescara.png)
 
-### Screen 5 
+### Applying Supervised Learning Sentinel-2 Data
 
-![Screen 5](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/screens/screen5.png)
+![Screen 5](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/05_Lake_Supervised.png)
 
->For more details about Remote HealthCare+ Master Application, please check this document [Master Application](https://github.com/AVcodeMaverick7/Remote-healthCare-Master-application/blob/main/Remote-HealthCare-Master-Application.pdf)
+### Total Suspended Sediments Chlorophyll-a Sentinel-2 Data
+
+![Screen 6](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/06_Tiber_Discharge.png)
+
+### Flood Detection from Sentinel-1 Data
+
+![Screen 7](https://github.com/AVcodeMaverick7/EarthObservation-DataAnalysis/blob/main/07_Flood_Detection.png)
+
 
 
 
